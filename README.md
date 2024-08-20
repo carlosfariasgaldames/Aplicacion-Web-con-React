@@ -1,9 +1,21 @@
-# React + Vite
 
-proyecto5
+![banner pro-5](https://github.com/user-attachments/assets/275701da-9df9-49db-b5f3-8a8003598a23)
+
+Proyecto 5 / Desarrollo Web con React
+
+Bootcamp Fullstack / COHORT 14, 2024
+
+## Planteamiento
+
+Planteamiento: En este proyecto, se construye una landind de negocio aplicando un prototipo simple construido en HTML en conjunto con diseño y estilos desde CSS.
 
 
-Currently, two official plugins are available:
+Tecnologías usadas: Visual Estudio Code, Git Y Github.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bootcamp Fullstack / COHORT 14, 2024
+
+
+Authors
+Nombre: Carlos Farias Galdames
+
+@carlosfariasgaldames
